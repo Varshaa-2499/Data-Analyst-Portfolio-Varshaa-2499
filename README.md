@@ -10,5 +10,7 @@ My portfolio includes a range of projects that I have completed. For each of the
 Portfolio's I have done:
 
 PowerBi : Amazon Prime Dashboard 
+
 SQL : Hospital Management System
+
 Python : Nykaa cosemtics
