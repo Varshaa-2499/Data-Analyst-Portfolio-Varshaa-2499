@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio-Varshaa-2499
 This repository contains about my experince in data analytics projects which i have done.
 
-## About -
+## About:
 
 My name is Varshaa and I am a Senior systems engineer transitiong into Data Analytics with a proven track record of success in data-driven decision making and problem-solving. I have hands on experience in using data to identify patterns, trends, and insights in order to make informed decisions. I am proficient in data visualization, data analysis and statistical analysis. My portfolio showcases my data management and analysis skills, which I have acquired through doing hands on projects with real time dataset.
 
