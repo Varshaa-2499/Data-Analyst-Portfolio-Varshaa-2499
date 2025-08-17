@@ -6,3 +6,9 @@ My name is Varshaa and I am a Senior systems engineer transitiong into Data Anal
 
 What Have I Done: 
 My portfolio includes a range of projects that I have completed. For each of these projects, I have provided a brief description of the work that I have completed and the tools which I have used. These projects cover multiple fields such as marketing, healthcare.
+
+Portfolio's I have done:
+
+PowerBi : Amazon Prime Dashboard 
+SQL : Hospital Management System
+Python : Nykaa cosemtics
